@@ -36,13 +36,22 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
-							'images/bg01.jpg': 'center',
-							'images/bg02.jpg': 'center',
-							'images/bg03.jpg': 'center'
+							'images/24.jpg': 'center',
+							'images/27.jpg': 'center',
+							'images/29.jpg': 'center',
+							'images/33.jpg': 'center',
+							'images/34.jpg': 'center',
+							'images/35.jpg': 'center',
+							'images/36.jpg': 'center',
+							'images/37.jpg': 'center',
+							'images/38.jpg': 'center',
+							'images/39.jpg': 'center',
+							'images/40.jpg': 'center',
+							'images/41.jpg': 'center'
 						},
 
 					// Delay.
-						delay: 6000
+						delay: 10000
 
 				};
 
