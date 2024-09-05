@@ -46,7 +46,6 @@
 							'images/37.jpg': 'center',
 							'images/38.jpg': 'center',
 							'images/39.jpg': 'center',
-							'images/40.jpg': 'center',
 							'images/41.jpg': 'center'
 						},
 
